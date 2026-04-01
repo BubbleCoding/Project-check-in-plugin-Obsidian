@@ -1,0 +1,10 @@
+{
+  "id": "project-checkin",
+  "name": "Project Check-in",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Dashboard for tracking weekly group project check-ins.",
+  "author": "",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
